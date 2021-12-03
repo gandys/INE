@@ -1,3 +1,5 @@
-"1. A tool for learning from the Spanish EPA "
+"1. EPA.ipynb : A tool for learning from the Spanish EPA. The tool is explained in EPA.pdf"
 
-"2. The Spanish EES files in CSV format that are not availible in the INE website (years 1995, 2002 and 2006) and a jupyter notebook to read and convert the original files that you can download from that website. Data from the years 2010, 2014 and 2018 can be downloaded in csv format from https://bit.ly/3DjCAfQ" 
+"2. The Spanish EES files in CSV format that are not available in the INE website (years 1995, 2002 and 2006) and a jupyter notebook to read and convert the original files that you can download from that website. Data from the years 2010, 2014 and 2018 can be downloaded in csv format from https://bit.ly/3DjCAfQ. You have to install the R package in python and, when installed, install the MicroDatosES package in the python R environment. After that, paste the whole folder that is in the MicroDatosES.zip file in your R folder, to update the necessary metadata files” 
+
+"3. Estudiantes.ipynb : A notebook exploring different facts about the Spanish graduate students and their experience in the job market. We also explore the relations between learning a language and job opportunities and whether taking part in the erasmus programme has a real influence in aspects such as knowing more languages or getting a job sooner."
